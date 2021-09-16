@@ -24,7 +24,7 @@ export SLACK_WEBHOOK_URL="https://hooks.slack.com/services/hereitis"
 ```
 yarn install
 source .env
-yarn pyth
+yarn liquidator
 ```
 
 ### Contribution
