@@ -14,7 +14,9 @@ export CLUSTER_URL="https://solana-api.projectserum.com"
 export KEYPAIR=~/.config/solana/id.json
 export PROGRAM_ID="Port7uDYB3wk6GJAw4KT1WpTeMtSu9bTcChBHkX2LfR"
 export CHECK_INTERVAL="1000.0"
+export SLACK_WEBHOOK_URL="https://hooks.slack.com/services/hereitis"
 ```
+
 
 `CHECK_INTERVAL` is the amount of milliseconds to wait between querying user's loan
 
